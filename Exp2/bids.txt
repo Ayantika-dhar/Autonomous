@@ -1,0 +1,5 @@
+Advertiser1 56 both
+Advertiser2 41 top
+Advertiser3 65 both
+Advertiser4 54 both
+Advertiser5 61 both
