@@ -1,0 +1,5 @@
+Advertiser1 28 sidebar
+Advertiser2 43 sidebar
+Advertiser3 67 top
+Advertiser4 35 sidebar
+Advertiser5 38 top
